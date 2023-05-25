@@ -10,10 +10,10 @@ Here are some sample images from the dataset:
 
 <br/>
 <div align="center">
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_1.jpg" alt="Dataset Sample 1" width="248"/>
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_2.jpg" alt="Dataset Sample 2" width="248"/>
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_3.jpg" alt="Dataset Sample 3" width="248"/>
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_4.jpg" alt="Dataset Sample 4" width="248"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_1.jpg" alt="Dataset Sample 1" width="245"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_2.jpg" alt="Dataset Sample 2" width="245"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_3.jpg" alt="Dataset Sample 3" width="245"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/dataset_4.jpg" alt="Dataset Sample 4" width="245"/>
 </div>
 
 ## Model Training
@@ -49,10 +49,10 @@ The model was used to perform inference on a set of test images. Here are some s
 
   <br/>
 <div align="center">
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_1.jpg" alt="Inference Sample 1" width="248"/>
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_2.jpg" alt="Inference Sample 2" width="248"/>
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_3.jpg" alt="Inference Sample 3" width="248"/>
-  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_4.jpg" alt="Inference Sample 4" width="248"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_1.jpg" alt="Inference Sample 1" width="245"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_2.jpg" alt="Inference Sample 2" width="245"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_3.jpg" alt="Inference Sample 3" width="245"/>
+  <img src="https://github.com/IslamMounir/Aerial_Airport_Object_Detection/blob/main/Images/test_4.jpg" alt="Inference Sample 4" width="245"/>
 </div>
 
 ## Usage
